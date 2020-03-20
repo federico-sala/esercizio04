@@ -1,4 +1,4 @@
 # Esercizio 04
 
-Aggiunto file main.py che stampa il doppio di un numero dato
+Modificato file main.py che ora stampa il triplo di un numero dato
 
